@@ -13,7 +13,7 @@ MeteorJs, Modern web ve mobil uygulamalar geliştirmek için JavaScript platform
   
 ## Yazarlar
 
-- [@hakanguzel](https://www.github.com/hakanguzel) tasarım ve geliştirme için.
+- [@hakanguzel](https://www.github.com/hakanguzel) geliştirme için.
 
   
 ## Kullanılan Teknolojiler
